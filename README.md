@@ -1,4 +1,4 @@
-KEY DESCRIPTION FROM DATA GOTTEN 
+KEY DESCRIPTION FROM DATA GOTTEN: 
 The analysis provides insights into factors influencing crop yield. 
 The rainfall distribution shows most crops receive moderate rainfall, with higher yields between 1,100–1,999 mm, but very high rainfall (above 2,000 mm) leads to lower yields.
 On average, crop yields are 328.1 units, with a wide range from 46 to 628. Correlation analysis suggests that farm size strongly influences yield (0.989 correlation), while rainfall, soil quality, sunlight, and fertilizer have weaker or negligible effects.
